@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("../img/background.jpg");
+  background-image: url("..assets/img/background.jpg");
   background-position: center;
   background-size: cover;
 }
